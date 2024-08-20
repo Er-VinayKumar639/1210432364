@@ -10,7 +10,7 @@ class Axios{
                 timeout: 8000,
                 headers: {
                     'Content-Type': 'application/json',
-                    "Authorization":`Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0MTYwMzAzLCJpYXQiOjE3MjQxNjAwMDMsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImZmNTk0MjcwLWQwZDItNGM2OS1hYTE5LTVlODNlYWExZDg1ZSIsInN1YiI6InNodWJoYW1jaGF1aGFuOTQ1MkBnbWFpbC5jb20ifSwiY29tcGFueU5hbWUiOiJBZmZvcmRNZWQiLCJjbGllbnRJRCI6ImZmNTk0MjcwLWQwZDItNGM2OS1hYTE5LTVlODNlYWExZDg1ZSIsImNsaWVudFNlY3JldCI6InlhZ0dhSEtUQlJjaENOTmoiLCJvd25lck5hbWUiOiJTaHViaGFtIENoYXVoYW4iLCJvd25lckVtYWlsIjoic2h1YmhhbWNoYXVoYW45NDUyQGdtYWlsLmNvbSIsInJvbGxObyI6IjEyMTA0MzIzMTIifQ.os6XVyQXD88wgiq6HMO4dZ1oUHzYvNd0duN5rD1wjQA`,
+                    "Authorization":`Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0MTYxODk3LCJpYXQiOjE3MjQxNjE1OTcsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjIxM2VlNTM2LTBhZGItNGMyZS04YzA5LTY5MjM3NjYzYzgzMiIsInN1YiI6ImVyLnZpbmF5Y2hhdXJhc2l5YTIwMDNAZ21haWwuY29tIn0sImNvbXBhbnlOYW1lIjoiQWZmb3JkTWVkIiwiY2xpZW50SUQiOiIyMTNlZTUzNi0wYWRiLTRjMmUtOGMwOS02OTIzNzY2M2M4MzIiLCJjbGllbnRTZWNyZXQiOiJQamNJd0dwTW9PY21oVFB6Iiwib3duZXJOYW1lIjoiVmluYXkgS3VtYXIiLCJvd25lckVtYWlsIjoiZXIudmluYXljaGF1cmFzaXlhMjAwM0BnbWFpbC5jb20iLCJyb2xsTm8iOiIxMjEwNDMyMzY0In0.lo8Vp0XujS_1l-TrFO-L_nyHHO2O0MgaZL7ILp-bChc`,
                 }
               });
             this.agent = instance;
